@@ -71,7 +71,10 @@ smart_notes/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── notes.json
+├── notes.json
+└── screenshots/
+    ├── smart-notes_main_screen.png
+    └── smart-notes_new_note.png
 ```
 
 ## Чему я научилась
