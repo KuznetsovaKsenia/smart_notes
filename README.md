@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green)
+![JSON](https://img.shields.io/badge/Storage-JSON-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
 # 📒 Smart Notes
 
 **Smart Notes** --- приложение для создания, редактирования и хранения текстовых заметок.
