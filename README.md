@@ -19,11 +19,11 @@
 
 ### Главное окно
 
-![Главное окно](screenshots/smart-notes_main_screen.png)
+![Главное окно](screenshots/smart_notes_main_screen.png)
 
 ### Работа с заметками
 
-![Пример заметки](screenshots/smart-notes_new_note.png)
+![Пример заметки](screenshots/smart_notes_new_note.png)
 
 ## Используемые технологии
 
